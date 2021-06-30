@@ -1,0 +1,6 @@
+[submodule "tools/polly"]
+	path = tools/polly
+	url = https://github.com/ruslo/polly
+[submodule "third-party/gtest"]
+	path = third-party/gtest
+	url = https://github.com/google/googletest
